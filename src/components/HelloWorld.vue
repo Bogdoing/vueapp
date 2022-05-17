@@ -6,7 +6,7 @@
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <div class="CustomDiv">
+    <div class="CustomDiv"> <!--- Test commis in tortisegit --->
       <h2>My Source</h2>
         <ul>
           <li><a href="https://github.com/Bogdoing" target="_blank" rel="noopener">Go to GitHub Bogdoing</a></li>
