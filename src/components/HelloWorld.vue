@@ -70,7 +70,7 @@ a {
 .CustomDiv a {
   color: #ff4d4d;
   padding : 5px 10px;
-  box-shadow: center;
+  box-shadow: 5px 5px 5px 5px #ff4d4d;
 }
 /* Custom css / */
 </style>
