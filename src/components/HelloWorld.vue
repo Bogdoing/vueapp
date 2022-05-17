@@ -69,6 +69,8 @@ a {
 }
 .CustomDiv a {
   color: #ff4d4d;
+  padding : 5px 10px;
+  box-shadow: center;
 }
 /* Custom css / */
 </style>
