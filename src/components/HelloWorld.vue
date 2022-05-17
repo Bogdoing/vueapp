@@ -6,9 +6,15 @@
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
+<<<<<<< HEAD
     <!-- Test commis in tortisegit -->
     <div class="CustomDiv"> <!-- Test commis in tortisegit -->
       <h2>My Source</h2> <!---->
+=======
+    <!--- Test commis in tortisegit --->
+    <div class="CustomDiv"> <!--- Test commis in tortisegit --->
+      <h2>My Source</h2>
+>>>>>>> 9ea27f35160757b72a5b75dfd0f00e9838bcf82f
         <ul>
           <li><a href="https://github.com/Bogdoing" target="_blank" rel="noopener">Go to GitHub Bogdoing</a></li>
             <li><a href="https://github.com/Bogdoing/vueapp" target="_blank" rel="noopener">Go to repository vueapp</a></li>
